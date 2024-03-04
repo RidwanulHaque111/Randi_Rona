@@ -4,6 +4,8 @@ Your personal assistant for Valorant (or other games)
 ## How To Use (EASIEST WAY)
 - Just run "Randi Rona.exe" from dist folder. (Everytime you run this file, one random message is copied to clipboard.)
 
+![Run this file](https://ibb.co/r0VGhgT)
+
 ## How To Use (ALTERNATE WAY)
 You can run the python file and it will do the same work.
 
